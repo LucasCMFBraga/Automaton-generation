@@ -54,3 +54,6 @@ For state (1) and o symbol (b). What is the next state ? : It will insert the ne
 |E0|E0|E1|
 |E1|E2|E0|
 |E2|E1|E2|
+
+### The program challenge_goto.c was created with this tool and represents the diagram above.
+
