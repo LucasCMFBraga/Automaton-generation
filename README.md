@@ -1,10 +1,10 @@
-#Finite automata generator
+# Finite automata generator
 
-##Description
+## Description
 
 The finite automata generator is a tool to facilitate the creation of a C state machine code with state matrix or state diagram.
 
-##Menu
+## Menu
 
 What is the file name ?: NameFile.c 
 
@@ -42,12 +42,12 @@ For state (1) and o symbol (b). What is the next state ? : It will insert the ne
 ### The code will be generated.
 
 
-##The diagram of finite automata
+## The diagram of finite automata.
  
  ![The diagram of finite automata](state_machine.png)
 
 
-## State table and transitions
+## State table and transitions.
 
 | |a|b|
 |-|-|-|
